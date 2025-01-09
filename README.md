@@ -1,1 +1,1 @@
-# Mail-Segmentaion-Proj
+# Mail-Customer-Segmentation
